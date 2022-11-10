@@ -8,5 +8,7 @@ List can store multiple null values.|Set can store only single null value.|
 List follows the insertion order.|Set doesn't follow the insertion order.|
 List can be iterated by iterator and ListIterator.| Set can be iterated by only iterator.|
 
-**Q. What are differences between iterator and listIterator?**  
-Iterator can iterate only in forward order but ListIterator can iterate in both forward and backward order.
+**Q. What are differences between Iterator and ListIterator?**  
+Iterator can iterate only in forward order but ListIterator can iterate in both forward and backward order.  
+
+Iterator cursor can be applied on any collection objects but ListIterator can be applied on only list implemented classes.
