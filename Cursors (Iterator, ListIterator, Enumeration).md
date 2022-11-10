@@ -68,4 +68,7 @@
 		}
 	}
 ```
+
+![pics](Pictures/listIterator.png)
+
 * ListIterator cursor can be applied only on List implemented classes.
