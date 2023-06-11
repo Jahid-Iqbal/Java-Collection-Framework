@@ -31,3 +31,5 @@ public class LinkedList<E>
 * **Synchronization:** Like ArrayList, LinkedList is not synchronized, so it is not thread-safe. If you need to use a LinkedList in a multithreaded environment, consider using `java.util.concurrent.ConcurrentLinkedDeque` or synchronize the access to the LinkedList manually.
 
 LinkedList is suitable for scenarios where frequent insertion or removal of elements is required, especially in the middle of the list. It is also useful when the size of the collection may vary dynamically. However, if random access to elements or memory efficiency is a priority, ArrayList may be a better choice.
+
+[Click here](https://github.com/Jahid-Iqbal/Data-Structures-and-Algorithms/blob/main/Data%20Structures/LinkedList.md) to learn LinkedList in details
